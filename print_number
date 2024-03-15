@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Assign a number to a variable
+number=42
+
+# Print the number using printf
+printf "The magic number is: %d\n" "$number"
+
