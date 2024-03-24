@@ -18,5 +18,5 @@ The script starts with (#!/bin/bash) to indicate that it’s a Bash script.
 The shell script displays the sizes of all continents in square kilometers. You can run the script by providing the continent name as an argument.
 
 
-# Create If-else - elif statment
+# Create If-else - elif statement
 
